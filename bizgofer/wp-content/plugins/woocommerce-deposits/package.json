@@ -1,6 +1,0 @@
-{
-	"devDependencies": {
-		"gulp": "^3.9.1",
-		"gulp-wp-pot": "^2.2.0"
-	}
-}
