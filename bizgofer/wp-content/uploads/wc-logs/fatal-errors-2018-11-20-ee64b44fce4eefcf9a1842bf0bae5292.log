@@ -1,0 +1,84 @@
+2018-11-20T09:46:55+00:00 CRITICAL Uncaught Error: Call to a member function get_data() on boolean in /var/www/html/bizgofer/wp-content/themes/dokan-child/api-functions.php:1368
+Stack trace:
+#0 /var/www/html/bizgofer/wp-includes/rest-api/class-wp-rest-server.php(936): bizgofer_product_detail(Object(WP_REST_Request))
+#1 /var/www/html/bizgofer/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /var/www/html/bizgofer/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/bizgofer_apis/...')
+#3 /var/www/html/bizgofer/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /var/www/html/bizgofer/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/html/bizgofer/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#6 /var/www/html/bizgofer/wp-includes/class-wp.php(373): do_action_ref_array('parse_request', Array)
+#7 /var/www/html/bizgofer/wp-includes/class-wp.php(713): WP->parse_request('')
+#8 /var/www/html/bizgofer/wp-includes/functions.php(960 in /var/www/html/bizgofer/wp-content/themes/dokan-child/api-functions.php on line 1368
+
+2018-11-20T09:47:14+00:00 CRITICAL Uncaught Error: Call to a member function get_data() on boolean in /var/www/html/bizgofer/wp-content/themes/dokan-child/api-functions.php:1368
+Stack trace:
+#0 /var/www/html/bizgofer/wp-includes/rest-api/class-wp-rest-server.php(936): bizgofer_product_detail(Object(WP_REST_Request))
+#1 /var/www/html/bizgofer/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /var/www/html/bizgofer/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/bizgofer_apis/...')
+#3 /var/www/html/bizgofer/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /var/www/html/bizgofer/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/html/bizgofer/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#6 /var/www/html/bizgofer/wp-includes/class-wp.php(373): do_action_ref_array('parse_request', Array)
+#7 /var/www/html/bizgofer/wp-includes/class-wp.php(713): WP->parse_request('')
+#8 /var/www/html/bizgofer/wp-includes/functions.php(960 in /var/www/html/bizgofer/wp-content/themes/dokan-child/api-functions.php on line 1368
+
+2018-11-20T09:49:33+00:00 CRITICAL Uncaught Error: Call to a member function get_data() on boolean in /var/www/html/bizgofer/wp-content/themes/dokan-child/api-functions.php:1368
+Stack trace:
+#0 /var/www/html/bizgofer/wp-includes/rest-api/class-wp-rest-server.php(936): bizgofer_product_detail(Object(WP_REST_Request))
+#1 /var/www/html/bizgofer/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /var/www/html/bizgofer/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/bizgofer_apis/...')
+#3 /var/www/html/bizgofer/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /var/www/html/bizgofer/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/html/bizgofer/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#6 /var/www/html/bizgofer/wp-includes/class-wp.php(373): do_action_ref_array('parse_request', Array)
+#7 /var/www/html/bizgofer/wp-includes/class-wp.php(713): WP->parse_request('')
+#8 /var/www/html/bizgofer/wp-includes/functions.php(960 in /var/www/html/bizgofer/wp-content/themes/dokan-child/api-functions.php on line 1368
+
+2018-11-20T09:52:44+00:00 CRITICAL Uncaught Error: Call to a member function get_data() on boolean in /var/www/html/bizgofer/wp-content/themes/dokan-child/api-functions.php:1368
+Stack trace:
+#0 /var/www/html/bizgofer/wp-includes/rest-api/class-wp-rest-server.php(936): bizgofer_product_detail(Object(WP_REST_Request))
+#1 /var/www/html/bizgofer/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /var/www/html/bizgofer/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/bizgofer_apis/...')
+#3 /var/www/html/bizgofer/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /var/www/html/bizgofer/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/html/bizgofer/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#6 /var/www/html/bizgofer/wp-includes/class-wp.php(373): do_action_ref_array('parse_request', Array)
+#7 /var/www/html/bizgofer/wp-includes/class-wp.php(713): WP->parse_request('')
+#8 /var/www/html/bizgofer/wp-includes/functions.php(960 in /var/www/html/bizgofer/wp-content/themes/dokan-child/api-functions.php on line 1368
+
+2018-11-20T09:52:50+00:00 CRITICAL Uncaught Error: Call to a member function get_data() on boolean in /var/www/html/bizgofer/wp-content/themes/dokan-child/api-functions.php:1368
+Stack trace:
+#0 /var/www/html/bizgofer/wp-includes/rest-api/class-wp-rest-server.php(936): bizgofer_product_detail(Object(WP_REST_Request))
+#1 /var/www/html/bizgofer/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /var/www/html/bizgofer/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/bizgofer_apis/...')
+#3 /var/www/html/bizgofer/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /var/www/html/bizgofer/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/html/bizgofer/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#6 /var/www/html/bizgofer/wp-includes/class-wp.php(373): do_action_ref_array('parse_request', Array)
+#7 /var/www/html/bizgofer/wp-includes/class-wp.php(713): WP->parse_request('')
+#8 /var/www/html/bizgofer/wp-includes/functions.php(960 in /var/www/html/bizgofer/wp-content/themes/dokan-child/api-functions.php on line 1368
+
+2018-11-20T09:52:58+00:00 CRITICAL Uncaught Error: Call to a member function get_data() on boolean in /var/www/html/bizgofer/wp-content/themes/dokan-child/api-functions.php:1368
+Stack trace:
+#0 /var/www/html/bizgofer/wp-includes/rest-api/class-wp-rest-server.php(936): bizgofer_product_detail(Object(WP_REST_Request))
+#1 /var/www/html/bizgofer/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /var/www/html/bizgofer/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/bizgofer_apis/...')
+#3 /var/www/html/bizgofer/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /var/www/html/bizgofer/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/html/bizgofer/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#6 /var/www/html/bizgofer/wp-includes/class-wp.php(373): do_action_ref_array('parse_request', Array)
+#7 /var/www/html/bizgofer/wp-includes/class-wp.php(713): WP->parse_request('')
+#8 /var/www/html/bizgofer/wp-includes/functions.php(960 in /var/www/html/bizgofer/wp-content/themes/dokan-child/api-functions.php on line 1368
+
+2018-11-20T09:53:35+00:00 CRITICAL Uncaught Error: Call to a member function get_data() on boolean in /var/www/html/bizgofer/wp-content/themes/dokan-child/api-functions.php:1368
+Stack trace:
+#0 /var/www/html/bizgofer/wp-includes/rest-api/class-wp-rest-server.php(936): bizgofer_product_detail(Object(WP_REST_Request))
+#1 /var/www/html/bizgofer/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /var/www/html/bizgofer/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/bizgofer_apis/...')
+#3 /var/www/html/bizgofer/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /var/www/html/bizgofer/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/html/bizgofer/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#6 /var/www/html/bizgofer/wp-includes/class-wp.php(373): do_action_ref_array('parse_request', Array)
+#7 /var/www/html/bizgofer/wp-includes/class-wp.php(713): WP->parse_request('')
+#8 /var/www/html/bizgofer/wp-includes/functions.php(960 in /var/www/html/bizgofer/wp-content/themes/dokan-child/api-functions.php on line 1368
+

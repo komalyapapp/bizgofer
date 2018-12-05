@@ -1,0 +1,39 @@
+2018-10-26T05:48:44+00:00 DEBUG New Order #63 created. Init sub order.
+2018-10-26T05:48:44+00:00 DEBUG 1 vendor only, skipping sub order.
+2018-10-26T05:50:11+00:00 DEBUG New Order #65 created. Init sub order.
+2018-10-26T05:50:11+00:00 DEBUG Got 0 vendors, starting sub order.
+2018-10-26T05:50:11+00:00 DEBUG Completed sub order for #65.
+2018-10-26T05:56:06+00:00 DEBUG New Order #66 created. Init sub order.
+2018-10-26T05:56:06+00:00 DEBUG Got 0 vendors, starting sub order.
+2018-10-26T05:56:06+00:00 DEBUG Completed sub order for #66.
+2018-10-26T05:59:55+00:00 DEBUG New Order #67 created. Init sub order.
+2018-10-26T05:59:55+00:00 DEBUG 1 vendor only, skipping sub order.
+2018-10-26T06:01:34+00:00 DEBUG New Order #69 created. Init sub order.
+2018-10-26T06:01:34+00:00 DEBUG Got 0 vendors, starting sub order.
+2018-10-26T06:01:34+00:00 DEBUG Completed sub order for #69.
+2018-10-26T06:02:52+00:00 DEBUG New Order #70 created. Init sub order.
+2018-10-26T06:02:52+00:00 DEBUG Got 0 vendors, starting sub order.
+2018-10-26T06:02:52+00:00 DEBUG Completed sub order for #70.
+2018-10-26T06:05:23+00:00 DEBUG New Order #71 created. Init sub order.
+2018-10-26T06:05:23+00:00 DEBUG Got 0 vendors, starting sub order.
+2018-10-26T06:05:23+00:00 DEBUG Completed sub order for #71.
+2018-10-26T06:07:28+00:00 DEBUG New Order #72 created. Init sub order.
+2018-10-26T06:07:28+00:00 DEBUG Got 0 vendors, starting sub order.
+2018-10-26T06:07:28+00:00 DEBUG Completed sub order for #72.
+2018-10-26T06:09:16+00:00 DEBUG New Order #73 created. Init sub order.
+2018-10-26T06:09:16+00:00 DEBUG Got 0 vendors, starting sub order.
+2018-10-26T06:09:16+00:00 DEBUG Completed sub order for #73.
+2018-10-26T06:10:28+00:00 DEBUG New Order #74 created. Init sub order.
+2018-10-26T06:10:28+00:00 DEBUG Got 0 vendors, starting sub order.
+2018-10-26T06:10:28+00:00 DEBUG Completed sub order for #74.
+2018-10-26T06:11:45+00:00 DEBUG New Order #75 created. Init sub order.
+2018-10-26T06:11:45+00:00 DEBUG Got 0 vendors, starting sub order.
+2018-10-26T06:11:45+00:00 DEBUG Completed sub order for #75.
+2018-10-26T06:12:49+00:00 DEBUG New Order #76 created. Init sub order.
+2018-10-26T06:12:49+00:00 DEBUG 1 vendor only, skipping sub order.
+2018-10-26T06:13:13+00:00 DEBUG New Order #77 created. Init sub order.
+2018-10-26T06:13:13+00:00 DEBUG 1 vendor only, skipping sub order.
+2018-10-26T06:16:01+00:00 DEBUG New Order #78 created. Init sub order.
+2018-10-26T06:16:01+00:00 DEBUG 1 vendor only, skipping sub order.
+2018-10-26T06:16:38+00:00 DEBUG New Order #79 created. Init sub order.
+2018-10-26T06:16:38+00:00 DEBUG 1 vendor only, skipping sub order.

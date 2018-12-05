@@ -1,0 +1,72 @@
+2018-11-01T10:43:36+00:00 CRITICAL Uncaught Error: Call to undefined function base_url() in /var/www/html/wp-content/themes/dokan-child/functions.php:1006
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): add_coupons_admin('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-admin/admin.php(224): do_action('toplevel_page_c...')
+#4 {main}
+  thrown
+
+2018-11-01T10:43:55+00:00 CRITICAL Uncaught Error: Call to undefined function base_url() in /var/www/html/wp-content/themes/dokan-child/functions.php:1006
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): add_coupons_admin('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-admin/admin.php(224): do_action('toplevel_page_c...')
+#4 {main}
+  thrown
+
+2018-11-01T11:05:33+00:00 CRITICAL Uncaught Error: Call to undefined function get_coupon_expiry_date() in /var/www/html/wp-content/themes/dokan-child/functions.php:986
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): add_coupons_admin('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-admin/admin.php(224): do_action('toplevel_page_c...')
+#4 {main}
+  thrown
+
+2018-11-01T11:10:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_coupon_expiry_date() in /var/www/html/wp-content/themes/dokan-child/functions.php:988
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): add_coupons_admin('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-admin/admin.php(224): do_action('toplevel_page_c...')
+#4 {main}
+  thrown
+
+2018-11-01T11:12:45+00:00 CRITICAL Uncaught Error: Call to undefined function get_coupon_expiry_date() in /var/www/html/wp-content/themes/dokan-child/functions.php:988
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): add_coupons_admin('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-admin/admin.php(224): do_action('toplevel_page_c...')
+#4 {main}
+  thrown
+
+2018-11-01T11:32:46+00:00 CRITICAL Uncaught Error: Call to a member function get_amount() on null in /var/www/html/wp-content/themes/dokan-child/functions.php:1062
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): add_coupons_admin('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-admin/admin.php(224): do_action('toplevel_page_c...')
+#4 {main}
+  thrown
+
+2018-11-01T11:33:44+00:00 CRITICAL Uncaught Error: Call to a member function get_product_ids() on null in /var/www/html/wp-content/themes/dokan-child/functions.php:1083
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): add_coupons_admin('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-admin/admin.php(224): do_action('toplevel_page_c...')
+#4 {main}
+  thrown
+
+2018-11-01T11:36:17+00:00 CRITICAL Uncaught Error: Call to a member function get_product_ids() on null in /var/www/html/wp-content/themes/dokan-child/functions.php:1079
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): add_coupons_admin('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-admin/admin.php(224): do_action('toplevel_page_c...')
+#4 {main}
+  thrown
+
